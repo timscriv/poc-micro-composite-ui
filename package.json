@@ -1,0 +1,16 @@
+{
+  "name": "poc-micro-composite-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server -c=bs-config.json",
+    "start": "npm run lite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
